@@ -9,15 +9,19 @@
    ============================================================================= */
 window.CLIENTES = {
 
-    'amanecernetwork': {
-        empresa: 'Amanecer Network',
-        telefono: '9673778647',                // 10 digitos, con lada, sin espacios
-        pais: '52',
-        whatsapp: true,
-        color: '#0d5c46',
-        mensajeAviso: '',
-        mensajeSuspendido: '',
-        pago: {}
+    'amacernetwork': {
+    empresa: 'AMANECER-NETWORK',
+    telefono: '9673778647',
+    pais: '52',
+    whatsapp: true,
+    color: '#1e7b5c',
+    mensajeAviso: '',
+    mensajeSuspendido: '',
+    pago: {
+        banco: 'BanCoppel',
+        titular: 'Juan Enrique Pérez Gómez',
+        cuenta: '137130103150115297',
+        puntos: 'Nichteel Crucero Hermita, Tienda de Diego Gomez Santiz. Muro'
     }
 
 };
