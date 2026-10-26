@@ -11,7 +11,7 @@ window.CLIENTES = {
 
     'amanecernetwork': {
         empresa: 'Amanecer Network',
-        telefono: '',                // 10 digitos, con lada, sin espacios
+        telefono: '9673778647',                // 10 digitos, con lada, sin espacios
         pais: '52',
         whatsapp: true,
         color: '#0d5c46',
