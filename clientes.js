@@ -9,7 +9,7 @@
    ============================================================================= */
 window.CLIENTES = {
 
-    'amacernetwork': {
+    'amanecernetwork': {
     empresa: 'AMANECER-NETWORK',
     telefono: '9673778647',
     pais: '52',
